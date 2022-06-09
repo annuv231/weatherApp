@@ -55,3 +55,14 @@ button {
 button:hover {
   background: #7c7c6b;
 }
+div#weather-card {
+  line-height: 2em;
+}
+h2.city {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.flex-box {
+  display: flex;
+  align-items: center;
+}
