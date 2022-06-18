@@ -1,5 +1,3 @@
-import "dotenv/config";
-console.log(process.env);
 let weather = {
   "api-key": "9816f84cfdd59a214b445a1312899350",
   fetchWeather: function (city) {
